@@ -1,0 +1,11 @@
+{
+  "name": "password-strength",
+  "version": "1.0.0",
+  "description": "Find out why 'cat' is not a good password",
+  "main": "null",
+  "author": "garrettgsb",
+  "license": "MIT",
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
+}
